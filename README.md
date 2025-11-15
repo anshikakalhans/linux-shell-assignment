@@ -44,3 +44,9 @@ This script checks the system’s current CPU and memory usage. It displays real
 Script 3: Automated Download Task (download.sh)
 
 This script automatically downloads a file from a given URL using commands like wget or curl. It helps automate the downloading process and shows how to work with network-related commands in Linux.
+
+
+
+Reflection
+
+During this assignment, I faced a few challenges like understanding GitHub, giving script permissions, and running the commands correctly. But while doing it, I learned how to write basic shell scripts, use Linux commands, and automate small tasks. These skills are useful in real life because things like backups, monitoring, and automation are commonly done on servers and systems. This assignment helped me get more comfortable with Linux and scripting.
