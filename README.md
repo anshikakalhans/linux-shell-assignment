@@ -14,7 +14,7 @@ Go to the folder where your script is saved:
 cd folder_path
 
 
-Give permission to the script (you have to do this only once):
+Give permission to the script
 
 chmod +x scriptname.sh
 
@@ -24,7 +24,7 @@ Run the script:
 ./scriptname.sh
 
 
-If the script needs any inputs, run it like this:
+If the script needs any inputs, running it like this:
 
 ./scriptname.sh input1 input2
 
